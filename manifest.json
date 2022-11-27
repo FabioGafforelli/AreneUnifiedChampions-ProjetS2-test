@@ -5,9 +5,9 @@
   "display": "standalone",
   "name": "Arene Unified Champions",
   "orientation": "any",
-  "scope": "/https://stellar-gingersnap-59d925.netlify.app/",
+  "scope": "/https://rad-tapioca-7c1957.netlify.app/",
   "short_name": "Arene Unified Champions",
-  "start_url": "https://stellar-gingersnap-59d925.netlify.app/",
+  "start_url": "/https://rad-tapioca-7c1957.netlify.app/",
   "theme_color": "#ffffff",
   "categories": [
     "entertainment"
