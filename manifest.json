@@ -11,13 +11,13 @@
 "orientation": "any",
 "icons": [
     {
-        "src": "/public/Logo.png",
+        "src": "/assets/Logo.b0eb28f0.png",
         "sizes": "512x512",
         "type": "image/png",
         "purpose": "maskable"
     },
     {
-        "src": "/public/Logo.png",
+        "src": "/assets/Logo.b0eb28f0.png",
         "sizes": "192x192",
         "type": "image/png",
         "purpose": "any"
