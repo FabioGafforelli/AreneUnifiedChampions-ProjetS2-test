@@ -22,7 +22,12 @@ const firebaseConfig = {
 
 // Initialize Firebase
 const appFirebase = initializeApp(firebaseConfig);
+// other imports...
+import runtime from "serviceworker-webpack-plugin/lib/runtime";
 
+if ("serviceWorker" in navigator) {
+  runtime.register();
+}
 const app = createApp(App)
 
 app.use(router)
