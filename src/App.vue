@@ -1,5 +1,4 @@
 <template>
-<link rel="manifest" href="/public/manifest.webmanifest">
 
 
   <RouterView />
