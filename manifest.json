@@ -1,7 +1,7 @@
 {
 "name": "Arene",
 "short_name": "Arene UFC",
-"start_url": "https://rad-tapioca-7c1957.netlify.app/",
+"start_url": "/https://rad-tapioca-7c1957.netlify.app/",
 "display": "standalone",
 "description": "A description for your application",
 "lang": "French",
@@ -11,13 +11,13 @@
 "orientation": "any",
 "icons": [
     {
-        "src": "https://www.pwabuilder.com/assets/icons/icon_512.png",
+        "src": "/public/Logo.png",
         "sizes": "512x512",
         "type": "image/png",
         "purpose": "maskable"
     },
     {
-        "src": "https://www.pwabuilder.com/assets/icons/icon_192.png",
+        "src": "/public/Logo.png",
         "sizes": "192x192",
         "type": "image/png",
         "purpose": "any"
