@@ -1,43 +1,33 @@
 {
-  "short_name": "Arene",
-  "name": "Arene UFC?",
+  "background_color": "#ffffff",
+  "description": "arene tournoi de detection",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Arene: A tournament App",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "AreneUFC",
+  "start_url": "/https://rad-tapioca-7c1957.netlify.app/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "entertainment"
+  ],
+  "screenshots": [],
   "icons": [
     {
-      "src": "/public/Logo.png",
+      "src": "/assets/Logo.b0eb28f0.png",
+      "type": "image/png",
+      "sizes": "150x150"
+    },
+        {
+      "src": "/assets/Logo.b0eb28f0.png",
+      "type": "image/png",
       "sizes": "512x512"
     },
     {
-      "src": "/public/Logo.png",
-      "type": "image/png",
-      "sizes": "192x192"
+      "src": "/favicon.ico",
+      "type": "image/x-icon"
     }
   ],
-  "id": "/https://rad-tapioca-7c1957.netlify.app/",
-  "start_url": "/https://rad-tapioca-7c1957.netlify.app/",
-  "background_color": "#3367D6",
-  "display": "standalone",
-  "scope": "/",
-  "theme_color": "#3367D6",
-  "shortcuts": [
-    {
-      "name": "How's weather today?",
-      "short_name": "Today",
-      "description": "View weather information for today",
-      "url": "/today?source=pwa",
-      "icons": [{ "src": "/public/Logo.png", "sizes": "192x192" }]
-    }
-  ],
-  "description": "Weather forecast information",
-  "screenshots": [
-    {
-      "src": "/images/screenshot1.png",
-      "type": "image/png",
-      "sizes": "540x720"
-    },
-    {
-      "src": "/images/screenshot2.jpg",
-      "type": "image/jpg",
-      "sizes": "540x720"
-    }
-  ]
+  "shortcuts": []
 }
